@@ -3,8 +3,8 @@ Artificial Intelligence Pac-Man Project. Designed by UC Berkley and used as cour
 
 Sections Of the Project:
 
-Search: Implement depth-first, breadth-first, uniform cost, and A* search algorithms. These algorithms are used to solve navigation and traveling salesman problems in the Pacman world.
+Search: Implement depth-first, breadth-first, uniform cost, and A* search algorithms.
 
-Multi-Agent Search: Classic Pacman is modeled as both an adversarial and a stochastic search problem. Implement multiagent minimax and expectimax algorithms, as well as designing evaluation functions.
+Multi-Agent Search: Making pacman behave as a reflex agent. Implement multiagent minimax, alpha-beta pruning and expectimax algorithms, as well as designing evaluation functions.
 
-Reinforcement Learning: Implement model-based and model-free reinforcement learning algorithms, applied to the AIMA textbook's Gridworld, Pacman, and a simulated crawling robot.
+Markon Decision Processes: Implement value iteration and policies, for known MDPs, applied on Gridworld for testing.
